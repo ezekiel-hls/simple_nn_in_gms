@@ -1,0 +1,165 @@
+{
+  "$GMProject": "v1",
+  "%Name": "Neural Net Guide - LTS 2026",
+  "AudioGroups": [
+    {
+      "$GMAudioGroup": "",
+      "%Name": "audiogroup_default",
+      "name": "audiogroup_default",
+      "resourceType": "GMAudioGroup",
+      "resourceVersion": "2.0",
+      "targets": -1
+    }
+  ],
+  "configs": {
+    "name": "Default",
+    "children": []
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {
+      "$GMFolder": "",
+      "%Name": "Scripts",
+      "folderPath": "folders/Scripts.yy",
+      "name": "Scripts",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Objects",
+      "folderPath": "folders/Objects.yy",
+      "name": "Objects",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Rooms",
+      "folderPath": "folders/Rooms.yy",
+      "name": "Rooms",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    },
+    {
+      "$GMFolder": "",
+      "%Name": "Sprites",
+      "folderPath": "folders/Sprites.yy",
+      "name": "Sprites",
+      "resourceType": "GMFolder",
+      "resourceVersion": "2.0"
+    }
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2026.0.0.16"
+  },
+  "name": "Neural Net Guide - LTS 2026",
+  "resources": [
+    {
+      "id": {
+        "name": "scr_nn_create",
+        "path": "scripts/scr_nn_create/scr_nn_create.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_nn_initialize",
+        "path": "scripts/scr_nn_initialize/scr_nn_initialize.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "scr_nn_feedforward",
+        "path": "scripts/scr_nn_feedforward/scr_nn_feedforward.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "tanh",
+        "path": "scripts/tanh/tanh.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "normalize",
+        "path": "scripts/normalize/normalize.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "mutate",
+        "path": "scripts/mutate/mutate.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_arrowhead",
+        "path": "objects/obj_arrowhead/obj_arrowhead.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_target",
+        "path": "objects/obj_target/obj_target.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "obj_nn_main",
+        "path": "objects/obj_nn_main/obj_nn_main.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "rm_main",
+        "path": "rooms/rm_main/rm_main.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_arrowhead",
+        "path": "sprites/spr_arrowhead/spr_arrowhead.yy"
+      }
+    },
+    {
+      "id": {
+        "name": "spr_target",
+        "path": "sprites/spr_target/spr_target.yy"
+      }
+    }
+  ],
+  "resourceType": "GMProject",
+  "resourceVersion": "2.0",
+  "RoomOrderNodes": [
+    {
+      "roomId": {
+        "name": "rm_main",
+        "path": "rooms/rm_main/rm_main.yy"
+      }
+    }
+  ],
+  "TextureGroups": [
+    {
+      "$GMTextureGroup": "",
+      "%Name": "Default",
+      "autocrop": true,
+      "border": 2,
+      "compressFormat": "bz2",
+      "customOptions": "",
+      "directory": "",
+      "groupParent": null,
+      "isScaled": true,
+      "loadType": "default",
+      "mipsToGenerate": 0,
+      "name": "Default",
+      "resourceType": "GMTextureGroup",
+      "resourceVersion": "2.0",
+      "targets": -1
+    }
+  ],
+  "ForcedPrefabProjectReferences": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "templateType": "game"
+}

@@ -1,24 +1,6 @@
-# simple_nn_in_gms
-This is a basic feed forward neural network created using game maker studio that is created for a tutorial
+# Neural Network in GameMaker
 
-Link to the tutorial:
+## Directory map
 
-Part 1:
-   Getting started
-   
-https://highleapstudios.wordpress.com/2019/09/24/neural-network-in-game-maker-studio-1/
-
-Part 2:
-  Setting up feed forward
-  
-https://highleapstudios.wordpress.com/2019/10/05/neural-network-in-game-maker-studio-2/
-
-Part 3:
-  Adding bias
-  
-https://highleapstudios.wordpress.com/2019/10/07/neural-network-in-game-maker-studio-3/
-
-Part 4:
-  Training
-  
-https://highleapstudios.wordpress.com/2019/10/12/neural-network-in-game-maker-studio-4/
+- [`Neural Net Guide - 1.4`](Neural%20Net%20Guide%20-%201.4/) — The original project built using GameMaker 1.4.
+- [`Neural Net Guide - LTS 2026`](Neural%20Net%20Guide%20-%20LTS%202026/) — An updated version for GameMaker LTS 2026.

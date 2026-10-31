@@ -1,0 +1,10 @@
+# Local GameMaker settings and compiler output
+.DS_Store
+**/*.yyp.local
+**/*.resource_order
+**/local_settings.json
+**/options.ini
+**/cache/
+**/temp/
+**/build/
+**/*.log
